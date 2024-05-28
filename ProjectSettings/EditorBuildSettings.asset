@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartControl.unity
+    guid: 763935da080bacd4089065714de3791a
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 8867d5378c79d6e46bc499b4428384d8
+  - enabled: 1
+    path: Assets/Scenes/Picture1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Picture2.unity
+    guid: 12f727e159a26ac4180e3bba6a66a7aa
+  - enabled: 1
+    path: Assets/Scenes/Picture3.unity
+    guid: b5154253153482b408611ef47995d784
+  - enabled: 1
+    path: Assets/Scenes/Picture4.unity
+    guid: 608cd70f5618ff6449b0bcb5a49100d2
+  - enabled: 1
+    path: Assets/Scenes/Picture5.unity
+    guid: df582022c938a3448929b6739dd99f68
+  - enabled: 1
+    path: Assets/Scenes/Picture6.unity
+    guid: 355707ada63828742a78a330fad56626
+  - enabled: 1
+    path: Assets/Scenes/Picture7.unity
+    guid: 17052c539e0012f439ac5e984853149c
+  - enabled: 1
+    path: Assets/Scenes/Picture8.unity
+    guid: b31a981d9015bbf41addef42ebde1161
+  - enabled: 1
+    path: Assets/Scenes/Picture9.unity
+    guid: 626717750ed94e0468bc794fa2b8de70
+  - enabled: 1
+    path: Assets/Scenes/Picture10.unity
+    guid: 967cbaead60e4dc4e998328e32af78a2
+  - enabled: 1
+    path: Assets/Scenes/Picture11.unity
+    guid: 46ec88035b62bb74287e416008cd38b3
+  - enabled: 1
+    path: Assets/Scenes/Picture12.unity
+    guid: ffff5d0c19e125142ba94546e7de2086
+  - enabled: 1
+    path: Assets/Scenes/Picture13.unity
+    guid: 360a6dca229c1b546b5fc2194e4fe139
+  - enabled: 1
+    path: Assets/Scenes/Picture14.unity
+    guid: a2f9f9deaba0969439983a1f6b1e891e
+  - enabled: 1
+    path: Assets/Scenes/Picture15.unity
+    guid: 1ca70bea88b92e8428233152d82199e9
+  - enabled: 1
+    path: Assets/Scenes/Picture16.unity
+    guid: c48364d07ded5ba48b20a95bd6c9ae8f
+  - enabled: 1
+    path: Assets/Scenes/Picture17.unity
+    guid: 65ecb6dea84076649bf6e8f3f4b313d7
+  - enabled: 1
+    path: Assets/Scenes/Picture18.unity
+    guid: e1c33eea0bc00a8489f5371d91227703
+  - enabled: 1
+    path: Assets/Scenes/Picture19.unity
+    guid: d196ebffa42be1746b5fcb1bf8561d9a
+  - enabled: 1
+    path: Assets/Scenes/Picture20.unity
+    guid: c0b8f819a92e9ee4e878003ac0b21a8d
+  - enabled: 1
+    path: Assets/Scenes/Picture21.unity
+    guid: 097e7f20f79510b4a93cf72b868f3477
+  - enabled: 1
+    path: Assets/Scenes/Picture22.unity
+    guid: 27c832d6b3c35da4fb632e9ae4de3142
+  - enabled: 1
+    path: Assets/Scenes/Picture23.unity
+    guid: bb0f1e6b35a2fa843bda1ee11e3b2efc
+  - enabled: 1
+    path: Assets/Scenes/Picture24.unity
+    guid: f613c77d4a11c1242bc91825720a03ad
+  - enabled: 1
+    path: Assets/Scenes/Picture25.unity
+    guid: 255e90cf428d89248b6d1bc7a1be7a91
+  - enabled: 1
+    path: Assets/Scenes/Picture26.unity
+    guid: 7aec8f737a6c06b4ab3c377b9a77b74d
+  - enabled: 1
+    path: Assets/Scenes/Picture27.unity
+    guid: 57b8bc27aa27a174393d9b8bbd06722d
+  - enabled: 1
+    path: Assets/Scenes/Picture28.unity
+    guid: 7c86561ee41bd2841a7afba4ca0a0223
+  - enabled: 1
+    path: Assets/Scenes/Picture29.unity
+    guid: 5d777e1b3573e224b9ba3ffe529a7dbd
+  - enabled: 1
+    path: Assets/Scenes/Picture30.unity
+    guid: 35c3f96a29abd7045be2839dd7b105d9
+  - enabled: 1
+    path: Assets/Scenes/Picture31.unity
+    guid: 48a72ee8de2dbf34ea5d75e1d80bebe8
+  - enabled: 1
+    path: Assets/Scenes/Picture32.unity
+    guid: 58224e411123a9548ace14b464d5ff01
+  - enabled: 1
+    path: Assets/Scenes/Picture33.unity
+    guid: 3244a3060e2adcf43977caa8cd01429c
+  - enabled: 1
+    path: Assets/Scenes/Picture34.unity
+    guid: c1bb0ee4eb2ec1540b768a44bb189ec3
+  - enabled: 1
+    path: Assets/Scenes/Picture35.unity
+    guid: 7f5004dd26ca75d45a94998c359c19e1
+  - enabled: 1
+    path: Assets/Scenes/Picture36.unity
+    guid: cf902792d3921db48b414b30bcdc97f3
+  - enabled: 1
+    path: Assets/Scenes/Picture37.unity
+    guid: 5ab9a8d8e19259147a1b71437aea371c
+  - enabled: 1
+    path: Assets/Scenes/Picture38.unity
+    guid: 8b1ffe7ba66aafe4f97639866407952b
+  - enabled: 1
+    path: Assets/Scenes/Picture39.unity
+    guid: 931fb80fa2369b94aa34ac6ed9117b0d
+  - enabled: 1
+    path: Assets/Scenes/Picture40.unity
+    guid: f907c19d1aeffcf448e6582d50bfb6e5
+  - enabled: 1
+    path: Assets/Scenes/Picture41.unity
+    guid: 9574ef3a07855fc4f858f25a9b8b7d90
+  - enabled: 1
+    path: Assets/Scenes/Picture42.unity
+    guid: 58cb0f00b2d846245b3f0f2d55cf0fa7
+  - enabled: 1
+    path: Assets/Scenes/Picture43.unity
+    guid: 0de52fbb68937944fb0f37398b3ca8ad
+  - enabled: 1
+    path: Assets/Scenes/Picture44.unity
+    guid: c3c5e2f011b8c594e96cb982da7bb99f
+  - enabled: 1
+    path: Assets/Scenes/Picture45.unity
+    guid: 823f29bf380673b4abb6e8aa7b374d6a
+  - enabled: 1
+    path: Assets/Scenes/Picture46.unity
+    guid: e19479788cadf8c429e46fab0a40aa80
+  - enabled: 1
+    path: Assets/Scenes/Picture47.unity
+    guid: aef3d5b6369ba8840934154035d15957
+  - enabled: 1
+    path: Assets/Scenes/Picture48.unity
+    guid: f1061ce35e83f4543a506907b94f1e2f
+  - enabled: 1
+    path: Assets/Scenes/Picture49.unity
+    guid: 695c51ff20b55b04fa7acb1cc2a7ce08
+  - enabled: 1
+    path: Assets/Scenes/Picture50.unity
+    guid: 6dfffb7c583e5d54ab4b73c3feae0b09
+  - enabled: 1
+    path: Assets/Scenes/Picture51.unity
+    guid: 271245836f011d547bf56efbf0f0f050
+  - enabled: 1
+    path: Assets/Scenes/Picture52.unity
+    guid: c84d75e175470cd4eb6c81dd1d79ceaa
+  - enabled: 1
+    path: Assets/Scenes/Picture53.unity
+    guid: 37f60658f17d92b4dbd88ab132d24322
+  m_configObjects: {}
