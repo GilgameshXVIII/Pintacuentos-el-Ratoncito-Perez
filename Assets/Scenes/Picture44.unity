@@ -19888,7 +19888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colorCorrecto: {r: 0, g: 0, b: 0, a: 0}
-  finalColor: 4
+  finalColor: 13
   currentColor: 0
   textoEstadoPieza: {fileID: 0}
   audio_colorear: {fileID: 568422934}

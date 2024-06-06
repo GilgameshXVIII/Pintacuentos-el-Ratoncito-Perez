@@ -349,4 +349,10 @@ public class BackButton : MonoBehaviour
         SceneManager.UnloadSceneAsync(54);
         back_button_sound.Play();
     }
+    public void Back55()
+    {
+        MainMenu.Instance.parentScene.SetActive(true);
+        SceneManager.UnloadSceneAsync(55);
+        back_button_sound.Play();
+    }
 }

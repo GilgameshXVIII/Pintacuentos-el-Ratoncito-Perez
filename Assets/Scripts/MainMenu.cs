@@ -306,6 +306,11 @@ public class MainMenu : MonoBehaviour
         parentScene.SetActive(false);
         SceneManager.LoadSceneAsync(54, LoadSceneMode.Additive);
     }
+    public void Scene55()
+    {
+        parentScene.SetActive(false);
+        SceneManager.LoadSceneAsync(55, LoadSceneMode.Additive);
+    }
 
     public void QuitGame()
     {

@@ -170,4 +170,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Picture53.unity
     guid: 37f60658f17d92b4dbd88ab132d24322
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: 7591df0777a239840b319c7b0cb29d8c
   m_configObjects: {}
